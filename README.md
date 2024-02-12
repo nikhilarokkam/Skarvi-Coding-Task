@@ -17,7 +17,7 @@ This is a simple contract management system developed using PHP, MySQL, HTML, an
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Import the database schema provided in the `database_schema.sql` file to set up the database.
+2. Import the database schema provided in the `contract_management_skarvi.sql` file to set up the database.
 3. Configure the database connection settings in the PHP files (`add_counterparty.php`, `add_cargo_description.php`, `add_term_contract.php`, `edit_term_contract.php`, `search_term_contract.php`, `view_edit_term_contract.php`).
 4. Navigate to the project directory in your web server's document root.
 5. Access the application through your web browser.
