@@ -23,8 +23,4 @@ This is a simple contract management system developed using PHP, MySQL, HTML, an
 5. Access the application through your web browser.
 
 ## Screenshots
-[Add Counterparty](screenshots/add_counterparty.png)
-[Add Cargo Description](screenshots/add_cargo_description.png)
-[Add Term Contract](screenshots/add_term_contract.png)
-[Search Term Contract](screenshots/search_term_contract.png)
-[View/Edit Term Contract](screenshots/view_edit_term_contract.png)
+![screencapture-localhost-Skarvi-Coding-Task-2024-02-12-14_42_03](https://github.com/nikhilarokkam/Skarvi-Coding-Task/assets/115566678/7a33ee60-c6f0-40ae-87b2-c903c8167b10)
